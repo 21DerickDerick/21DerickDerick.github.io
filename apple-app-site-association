@@ -1,15 +1,9 @@
 {
   "applinks": {
+      "apps": [],
       "details": [
-           {
-             "appIDs": ["jp.co.rakuten.RakutenRewardNativeSDK.SampleSwift"],
-             "components": [
-               {
-                  "/": "*",
-                  "comment": "Matches any URL with a path that starts with any."
-               }
-             ]
-           }
-       ]
+        "appId": "jp.co.rakuten.RakutenRewardNativeSDK.SampleSwift",
+        "paths": ["/main/*"]
+      ]
    }
 }
