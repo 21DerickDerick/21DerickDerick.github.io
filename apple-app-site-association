@@ -5,8 +5,8 @@
              "appIDs": ["jp.co.rakuten.RakutenRewardNativeSDK.SampleSwift"],
              "components": [
                {
-                  "/": "/main",
-                  "comment": "Matches any URL with a path that starts with /main."
+                  "/": "*",
+                  "comment": "Matches any URL with a path that starts with any."
                }
              ]
            }
