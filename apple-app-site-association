@@ -3,7 +3,7 @@
       "apps": [],
       "details": [
         "appId": "A43S2QQT2B.jp.co.rakuten.RakutenRewardNativeSDK.SampleSwift",
-        "paths": ["/HelloWorld/*"]
+        "paths": ["*"]
       ]
    }
 }
