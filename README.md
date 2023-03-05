@@ -1,5 +1,3 @@
-# 21DerickDerick.github.io
-Test
+My Bill Calculator Privacy Policy
 
-
-HelloWorld testing
+We do not collect any data from your device.
